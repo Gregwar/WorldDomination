@@ -1,6 +1,10 @@
 main(int i) {
 
-  i ++;
+  int j;
+
+  j = i*j;
+
+  return j;
 
 }
 
